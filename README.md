@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vaishali.
 
-#### I am a frontend developer specialized in ReactJS. I've worked experience of almost 2 years. 
+#### I am a frontend developer specialized in ReactJS. I've work experience of almost 2 years. 
 
 Here are some ideas to get you started:
 
