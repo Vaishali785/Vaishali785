@@ -34,7 +34,7 @@
 ---
 ## My GitHub Stats
 
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali785&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali785&theme=sunset-gradient&dates=ffffff&hide_border=true&hide_current_streak=true" />
 
 ----
 ## Open Source Contribution
