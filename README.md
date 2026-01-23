@@ -30,14 +30,9 @@
 
 ---
 ## Featured Projects
-🎮 : **[GTA VI Website Clone](https://gta6-vaishali.netlify.app/):** A cinematic marketing website clone built with React, GSAP, and Tailwind, featuring scroll-driven animations and video-heavy storytelling. <br/>
+🎮 **[GTA-VI](https://gta6-vaishali.netlify.app/):** A cinematic website clone built using React, GSAP, and Tailwind CSS, focused on cinematic scroll animations. <br/>
 :moneybag: **[Cryptoverse](https://cryptoversebyvaishali.web.app/):** Dive into the world of cryptocurrencies with this React.js application, providing real-time information and trends. <br/>
 :camping:	**[Natours](https://vaishali785.github.io/Natours/):** A visually stunning travel website built with HTML,and Sass, offering a glimpse into my design capabilities.
-
----
-## My GitHub Stats
-
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali785&theme=sunset-gradient&dates=ffffff&hide_border=true&hide_current_streak=true" />
 
 ----
 ## Open Source Contribution
