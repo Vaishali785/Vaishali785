@@ -17,9 +17,9 @@
 <img alt="SASS" align="left"  width="50px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img alt='Firebase' width='50px' src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg' />
 <img alt="CSS" align="left" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
-<img alt="Github" height="50" width="50" src="https://cdn.simpleicons.org/github/_/white" /> &nbsp;
-<img alt='Cursor' height="50" width="50" src='https://cdn.simpleicons.org/cursor/_/white' />
-<img alt='Next.js' height="50" width="50" src='https://cdn.simpleicons.org/nextdotjs/_/white' />
+<img alt="Github" align="left" height="50" width="50" src="https://cdn.simpleicons.org/github/_/white" /> 
+<img alt='Cursor' align="left" height="50" width="50" src='https://cdn.simpleicons.org/cursor/_/white' />
+<img alt='Next.js' align="left" height="50" width="50" src='https://cdn.simpleicons.org/nextdotjs/_/white' />
   
 <!-- <img alt='VSCode' height="50" width="50" src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' /> -->
 <!-- <img height="50" alt="JQuery" width="50" src="https://cdn.simpleicons.org/jquery/white" />  &nbsp; &nbsp; -->
